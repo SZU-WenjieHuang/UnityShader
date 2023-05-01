@@ -1,2 +1,4 @@
-# UnityShader
-Unity allows developers to control how light interacts with objects, how textures are applied to surfaces, and how materials behave. Shaders can be customized and combined to create unique visual effects and styles in a game or application. 
+- #### 05 Unity Shader (2022.01-2022.05)
+  ![image](https://user-images.githubusercontent.com/82434538/235371077-5d5a485b-3245-4404-b8a7-de62c3729450.png)
+  ***Repository:*** [Unity Shader](https://github.com/SZU-WenjieHuang/UnityShader)\
+  ***Description:*** Unity allows developers to control how light interacts with objects, how textures are applied to surfaces, and how materials behave. Shaders can be customized and combined to create unique visual effects and styles in a game or application. We can Implement smoke effect and transparency by customizing the vertex shader and fragment shader in the rendering pipeline throung Unity shader, to achieve the desired effect. I programme lighting equations and sample colors on texture mapping to implement rendering algorithms for both realism and non-realism effects.
